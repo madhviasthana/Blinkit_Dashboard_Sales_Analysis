@@ -47,7 +47,7 @@ This dashboard helps Blinkit understand its outlet performance better. It allows
 
 # Snapshot of Dashboard (Power BI Service)
 
-![[snapshot.png](https://github.com/madhviasthana/Blinkit_Dashboard_Sales_Analysis/blob/e3ef23b4626296b74a59b021b5e44e5624e9ac44/snapshot%20dashboard.png)]
+![snapshot](https://github.com/madhviasthana/Blinkit_Dashboard_Sales_Analysis/blob/e3ef23b4626296b74a59b021b5e44e5624e9ac44/snapshot%20dashboard.png)
 
 # Insights
 
