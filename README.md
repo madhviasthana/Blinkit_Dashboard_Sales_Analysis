@@ -10,7 +10,7 @@ This dashboard helps Blinkit understand its outlet performance better. It allows
 
 ### Steps followed 
 
-- **Step 1** : Load data into Power BI Desktop, dataset is a CSV file.
+- **Step 1** : Load data into Power BI Desktop, dataset is a xlsx file.
 - **Step 2** : Open Power Query Editor & in the View tab under Data preview section, check "Column Distribution", "Column Quality" & "Column Profile" options.
 - **Step 3** : Since by default, profiling will be opened only for 1000 rows, you need to select "Column profiling based on entire dataset".
 - **Step 4** : It was observed that in none of the columns errors & empty values were present.
